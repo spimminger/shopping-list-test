@@ -1,4 +1,5 @@
 semmeln
+toast
 aepfel
 birnen
 bananen
