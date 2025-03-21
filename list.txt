@@ -1,4 +1,5 @@
 semmeln
+baguette
 aepfel
 birnen
 bananen
