@@ -19,3 +19,4 @@ brot
 eis
 cola
 sprite
+fanta
